@@ -15,5 +15,5 @@ Simply open up the code and copy what you need to into your own program and fit 
 Yes. My teacher and I both created this project from c++'s own documents, as this is public information and the code is easy to program I am therefore allowing it for public use.
 
 ## Credits
-Myself
-My class Teacher.
+- Myself
+- My class Teacher.
